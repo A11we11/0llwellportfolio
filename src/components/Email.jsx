@@ -25,7 +25,7 @@ function Email() {
         {/* Main email link */}
         <div className="relative">
           <a
-            href="mailto:hello@johndoe.dev?subject=Let's work together&body=Hi John,%0D%0A%0D%0AI'd love to discuss a project with you.%0D%0A%0D%0ABest regards"
+            href="mailto:ogbonnaallwell1999@gmail.com?subject=Let's work together&body=Hi John,%0D%0A%0D%0AI'd love to discuss a project with you.%0D%0A%0D%0ABest regards"
             className="group inline-block relative"
             onMouseEnter={() => setIsHovered(true)}
             onMouseLeave={() => setIsHovered(false)}
@@ -33,9 +33,9 @@ function Email() {
             {/* Email text */}
             <span
               className={`
-              block text-3xl sm:text-4xl md:text-6xl lg:text-7xl xl:text-8xl 
+              block text-2xl text-center  sm:text-4xl md:text-6xl lg:text-7xl xl:text-8xl 
               font-bold leading-tight tracking-tight
-              transition-all duration-500 ease-out font-oswald
+              transition-all duration-500 ease-out font-oswald 
               ${
                 isHovered
                   ? "text-transparent bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text transform -translate-y-2"

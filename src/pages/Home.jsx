@@ -16,7 +16,7 @@ const Home = () => {
   overflow-x-hidden font-merriweather  
   "
     >
-      <ThemeToggle />
+      {/* <ThemeToggle /> */}
       <StarBackground />
       <Navbar />
       <main>

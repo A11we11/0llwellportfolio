@@ -4,11 +4,11 @@ const HeroSection = () => {
   return (
     <section
       id="hero"
-      className="relative min-h-screen flex flex-col items-center justify-center  px-4 md:grid grid-cols-2"
+      className="relative min-h-screen flex flex-col items-center justify-center  px-4 "
     >
-      <div className="font-oswald text-9xl w-2xl justify-end hidden md:block font-extrabold   ">
+      {/*  <div className="font-oswald text-9xl w-2xl justify-end hidden md:block font-extrabold   ">
         FRONTEND DEVELOPER
-      </div>
+      </div> */}
       <div className="container max-w-4xl mx-auto text-center z-10     ">
         <div className="space-y-6">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight  font-oswald ">
