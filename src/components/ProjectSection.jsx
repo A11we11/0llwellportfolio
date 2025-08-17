@@ -7,7 +7,8 @@ const projects = [
   {
     id: 1,
     title: "Food ordering App",
-    Description: ".",
+    description:
+      "A full-stack MERN food delivery platform where users can browse menus, add items to their cart, and securely place orders. Built with React on the frontend and Express + MongoDB on the backend, it features real-time cart updates, authentication, and a smooth checkout experience. The project also includes unit and integration testing with Vitest, Jest, Supertest, and React Testing Library to ensure reliability.",
     image: quikbite,
     tags: [
       "React",
@@ -26,10 +27,11 @@ const projects = [
   {
     id: 2,
     title: "Youtube clone",
-    description: ".",
+    description:
+      "A modern video streaming platform inspired by YouTube, developed with React and TailwindCSS. It allows users to explore videos, search by category, and watch content in a responsive, user-friendly interface. The app emphasizes performance and accessibility, with a clean UI and component testing powered by Vitest and React Testing Library.",
     image: clone,
     tags: ["React", "TailwindCSS", "React testing Library", "vitest"],
-    demoUrl: "youtube-clone-ivhz.vercel.app",
+    demoUrl: "https://youtube-clone-ivhz.vercel.app",
     githubUrl: "https://github.com/A11we11/youtube-clone",
   },
 ];
