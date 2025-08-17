@@ -29,8 +29,8 @@ const projects = [
     description: ".",
     image: clone,
     tags: ["React", "TailwindCSS", "React testing Library", "vitest"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "youtube-clone-ivhz.vercel.app",
+    githubUrl: "https://github.com/A11we11/youtube-clone",
   },
 ];
 
