@@ -21,11 +21,11 @@ const projects = [
       "supertest",
       "react testing library",
     ],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://food-ordering-app-cr6b.vercel.app",
+    githubUrl: "https://github.com/A11we11/Food-ordering-app",
   },
 
-/*   {
+  /*   {
     id: 2,
     title: "Youtube clone",
     description:
